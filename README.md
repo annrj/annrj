@@ -4,17 +4,7 @@
 👋 **Hello, I'm Ann Rai Jacob.** I'm a Computer Science engineer in Dubai who likes building things where **data, AI and software** meet.
 <!-- /EDIT: INTRO -->
 
-<div align="center">
 
-<!-- EDIT: TOP LINKS (replace the two YOUR- placeholders) -->
-[![LinkedIn](assets/buttons/button-linkedin.svg)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Portfolio](assets/buttons/button-portfolio.svg)](https://YOUR-PORTFOLIO-URL)
-[![Email](assets/buttons/button-email.svg)](mailto:annjacob.tech@gmail.com)
-<!-- /EDIT: TOP LINKS -->
-
-</div>
-
-![](assets/dividers/divider-blue.svg)
 
 ## About me
 
@@ -32,18 +22,6 @@ Alongside work, I build data and machine-learning projects end to end, from mode
 
 ![](assets/dividers/divider-lavender.svg)
 
-## Experience
-
-<!-- EDIT: EXPERIENCE (copy a block to add a role; newest first) -->
-**Technical Project Coordinator** · MGW, Dubai · *Feb 2026 – present*
-Coordinating production operations and payment-gateway integrations for a live payments platform: tracking and driving resolution of 30+ customer-impacting issues a month, managing vendor onboarding and API configuration, and working with engineers on reconciliation issues such as missing or duplicate transactions.
-
-**Business Analyst Intern** · Hightech Payment Systems, Dubai · *Sep 2025 – Jan 2026*
-Built Power BI executive dashboards for project KPIs, resource utilisation and planned-vs-actual effort, and turned business requirements into delivery tasks tracked in Jira and Bitbucket.
-
-**Audio Visual Design Engineer** · Panacor Technologies, Dubai · *Aug 2024 – Jan 2025*
-Designed bespoke audio-visual solutions to client specifications and budgets, with pre- and post-sales technical consulting.
-<!-- /EDIT: EXPERIENCE -->
 
 ## Education
 
@@ -127,19 +105,19 @@ Whether you're recruiting, collaborating or just curious about data and AI, I'd 
 
 <div align="center">
 
-[![LinkedIn](assets/buttons/button-linkedin.svg)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Portfolio](assets/buttons/button-portfolio.svg)](https://YOUR-PORTFOLIO-URL)
+[![LinkedIn](assets/buttons/button-linkedin.svg)](https://www.linkedin.com/in/ann-jacob-986aa3275/)
+[![Portfolio](assets/buttons/button-portfolio.svg)](https://www.datascienceportfol.io/annjacobtech)
 [![Email](assets/buttons/button-email.svg)](mailto:annjacob.tech@gmail.com)
 
 </div>
 
-Prefer plain text? **Email:** annjacob.tech@gmail.com · **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE
+Prefer plain text? **Email:** annjacob.tech@gmail.com ·
 <!-- /EDIT: CONNECT -->
 
 ![](assets/dividers/divider-lavender.svg)
 
 <div align="center">
 
-*Made with curiosity in Dubai.*
+*Made with curiosity*
 
 </div>
