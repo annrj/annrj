@@ -1,0 +1,31 @@
+[
+  {"label": "Python", "colour": "blue"},
+  {"label": "Pandas", "colour": "blue"},
+  {"label": "NumPy", "colour": "blue"},
+  {"label": "scikit-learn", "colour": "blue"},
+  {"label": "XGBoost", "colour": "blue"},
+  {"label": "SQL", "colour": "blue"},
+  {"label": "MySQL", "colour": "blue"},
+  {"label": "PostgreSQL", "colour": "blue"},
+  {"label": "ETL pipelines", "colour": "blue"},
+  {"label": "LLM integrations", "colour": "blue"},
+
+  {"label": "Power BI", "colour": "lavender"},
+  {"label": "Tableau", "colour": "lavender"},
+  {"label": "Excel", "colour": "lavender"},
+  {"label": "Streamlit", "colour": "lavender"},
+  {"label": "Data reconciliation", "colour": "lavender"},
+
+  {"label": "FastAPI", "colour": "mint"},
+  {"label": "REST APIs", "colour": "mint"},
+  {"label": "Redis", "colour": "mint"},
+  {"label": "Docker", "colour": "mint"},
+  {"label": "Git", "colour": "mint"},
+
+  {"label": "Jira", "colour": "peach"},
+  {"label": "Bitbucket", "colour": "peach"},
+  {"label": "Agile / Scrum", "colour": "peach"},
+  {"label": "SDLC", "colour": "peach"},
+  {"label": "Requirements documentation", "colour": "peach"},
+  {"label": "Stakeholder communication", "colour": "peach"}
+]
